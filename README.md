@@ -1,6 +1,7 @@
 This repository contains the EDA for both the assignments in which Data analysis has been done alone with training the model and choosing the best model for the dataset.
 
-# mech_test
+Mechademy
+
 This test contain two assignments.Both the assignments are quite simple, with the first assignment dealing with temperature forecasting, while the second assignment being a regression model.
 
                        Assignment 1 - Time Series Forecasting (using Weather_data.csv)
